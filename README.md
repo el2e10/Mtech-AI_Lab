@@ -7,7 +7,7 @@
 3.  Missionaries and cannibals using A\* algorithm
 4.  TicTacToe using MinMax algorithm
 5.  Decision Tree using Sk Learn
-6.  Neural Networkt
+6.  Neural Network
 7.  Naive Bayes
 8.  KMeans
 9.  KNN
